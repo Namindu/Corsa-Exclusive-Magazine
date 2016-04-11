@@ -1,6 +1,7 @@
 /* Main CSS Styles */
 
 body{
+	background-image: url("background.jpg");
 	background-color: #222;
 }
 
@@ -8,24 +9,20 @@ p{
 	color: #d9d9d9;
 }
 
-.header-image {    
-    position:absolute;
-    top:0;
-    bottom:0;   
-    max-height:868px;
-    overflow:hidden;    
-      left: 0; 
-      right: 0;
-	  z-index:-1;         
-      border:10px solid #545351;        
+#topBar{
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	height: 50px;
+	width: 100%;
+	padding: 0% 10%;
+	background-color: #454545;
+	background-image: linear-gradient(to bottom, #222222, #111111);
+	border-bottom: 2px;
+	border-bottom-width: 100%;
+	border-bottom-color: black;
 }
 
-.header {
-    width: 100%;
-    padding-top:50px;
-    margin-top:-10px;       
-}
-
-.header-image img {
-    width: 100% !important;
+.pageWrap{
+	margin: 60px 10% 0;
 }
