@@ -50,9 +50,15 @@ li {
 	margin-top:10px;
 }
 
-.navTab{
-	margin: auto;
-    left: 0%;
+.navButton{
+	Background-size: 200% 200% !important;
+	color: #fff;
+	font-variant: small-caps;
+	text-decoration; none;
+	letter-spacing: 1px;
+	padding: 1.3em 1.5em;
+	margin: 0.5em auto;
+	border-radius: 0.5;
 }
 
 .nav{
