@@ -55,7 +55,7 @@ li {
 
 .navButton{
 	background-size: 200% 200% !important;
-	color: #fff;
+	background-color: #222;
 	font-variant: small-caps;
 	text-decoration; none;
 	letter-spacing: 1px;
