@@ -38,6 +38,7 @@ li {
 }
 
 #logo{
+	background-image: url("main_banner.jpg");
 	margin-top: 10px;
 	height: 150px;
 	width: 300px;
