@@ -58,8 +58,7 @@ li {
 	font-variant: small-caps;
 	text-decoration; none;
 	letter-spacing: 1px;
-	border-radius: 0.5;
-	horizontal-align: middle;
+	float: left;
 }
 
 .nav{
