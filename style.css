@@ -53,3 +53,27 @@ p{
 	margin: 5px;
 	padding: .5% 0;
 }
+
+
+nav ul {
+	background-color: #01343f;
+	width: 100%;
+	color: white;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 20px;
+}
+
+nav ul li:hover {
+	background-color: #01100f;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
