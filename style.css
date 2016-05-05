@@ -3,6 +3,7 @@
 body{
 	background-image: url("background.jpg");
 	background-color: #222;
+	font-family: sans-serif;
 }
 
 p{
@@ -44,33 +45,22 @@ p{
 	display: inline-block;
 }
 
-#navButton{
-	background-size: 200% 200% !important;
-	background-color: #222;
-	font-variant: small-caps;
-	text-decoration; none;
-	letter-spacing: 1px;
-	float: left;
-	margin: 5px;
-	padding: .5% 0;
-	width: 100%;
-	color: white;
-	text-align: center;
-	padding: 0;
-	margin: 0;
+nav {
+	margin: 0px -7% 0;
 }
-
 
 nav ul {
-	background-color: #01343f;
-	width: 100%;
 	color: white;
-	text-align: center;
 	padding: 0;
-	margin: 0;
+	margin: 0px;
 }
 
-nav li:hover {
+nav ul li {
+	display: inline-block;
+	padding: 10px 15px;
+}
+
+nav ul li:hover {
 	background-color: #01100f;
 }
 
