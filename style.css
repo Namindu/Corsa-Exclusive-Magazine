@@ -36,6 +36,7 @@ p{
 
 .menu{
 	background-color: #454545;
+	background-image: linear-gradient(to bottom, #222222, #111111);
 	height: 40px;
 	width: 80%;
 	padding: 0% 6%;
@@ -61,7 +62,7 @@ nav ul li {
 }
 
 nav ul li:hover {
-	background-color: #01100f;
+	background-color: #454545;
 }
 
 a {
