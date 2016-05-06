@@ -30,6 +30,13 @@ p{
 
 .sideBar{
 	float: right;
+	background-color: #454545;
+	background-image: linear-gradient(to bottom, #222222, #111111);
+	height: 500px;
+	width: 4%;
+	padding: 0% 6%;
+	border: none;
+	border-radius: 10px;
 }
 
 #logo{
