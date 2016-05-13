@@ -34,7 +34,7 @@ p{
 
 .sideBar{
 	float: right;
-	margin-right: 25px;
+	margin-right: -95px;
 	background-color: #454545;
 	background-image: linear-gradient(to bottom, #222222, #111111);
 	height: 500px;
