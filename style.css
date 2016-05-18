@@ -81,6 +81,12 @@ nav ul li:hover{
 	background-color: #454545;
 }
 
+#sideNav{
+	color: white;
+	padding: 0;
+	margin: 0px;
+}
+
 a{
 	text-decoration: none;
 	color: inherit;
