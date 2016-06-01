@@ -29,6 +29,7 @@ p{
 
 .pageWrap{
 	margin: 60px 10%;
+	margin-left: -10px;
 }
 
 .sideBar{
