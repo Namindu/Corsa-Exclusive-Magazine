@@ -51,16 +51,17 @@
   			</div>
 		</div>
 		<!-- Use any element to open/show the overlay navigation menu -->
-		<span onclick="openNav()">open</span>
-	/* Open */
-	function openNav() {
-    		document.getElementById("myNav").style.height = "100%";
+	<span style="font-size:30px;cursor:pointer" onclick="openNav()">☰ open</span>
+
+	<script>
+		function openNav() {
+	    document.getElementById("myNav").style.width = "100%";
 	}
-	
-	/* Close */
+
 	function closeNav() {
-    		document.getElementById("myNav").style.height = "0%";
+	    document.getElementById("myNav").style.width = "0%";
 	}
+	</script>
 	</body>
 	<footer>
 		<div class="menu">
